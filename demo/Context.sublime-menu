@@ -1,0 +1,24 @@
+[	
+    { "command": "read", "caption": "朗读 -------> 单词" },
+    { "command": "double", "caption": "翻译 -------> 单词" },
+    { "command": "replace", "caption": "中文 -------> 英文 [翻译(替换)]" },
+    { "command": "english", "caption": "英文 -------> 注释 [翻译(文件)]" },
+    { "command": "codeformatting", "caption": "代码 -------> 格式化" },
+    { "caption": "-"},
+    {
+        "caption": "终端 -------> 视图",
+        "command": "openvive"
+    },
+    {
+        "caption": "终端 -------> 面板",
+        "command": "openpanle"
+    },
+    {
+        "caption": "终端 -------> 主题",
+        "command": "settheme"
+    },
+
+    { "caption": "-","id": "end"},
+    { "command": "html", "caption": "在谷歌游览器打开" }
+	
+]

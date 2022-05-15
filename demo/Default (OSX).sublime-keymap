@@ -1,0 +1,13 @@
+[
+    // { "keys": ["super+shift+t"], "command": "demo" }, 	//在终端打开当前文件路径
+    { "keys": ["super+alt+k"], "command": "number" }, 		//在多个光标迭代数字
+    { "keys": ["super+shift+y"], "command": "html" }, 		//在游览器打开当前文件
+    { "keys": ["super+shift+r"], "command": "double" },  	//翻译鼠标选中的单词
+    { "keys": ["super+alt+r"], "command": "read" },  		//朗读鼠标选中的单词
+    { "keys": ["super+control+r"], "command": "replace" },  //把选中的中文替换成英文
+    { "keys": ["super+shift+z"], "command": "english" },  	    //把选中的中文替换成英文
+    { "keys": ["super+."], "command": "codes" },
+    { "keys": ["super+alt+b"], "command": "show_panel", "args": {"panel": "output.exec"} }
+
+
+]
