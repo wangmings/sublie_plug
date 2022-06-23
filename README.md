@@ -1,9 +1,20 @@
-### Hi， Welcome to my personal homepage  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=347830076.github.io)
+- 🔭Here have some projects like [vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)
 
-哈喽，我是wang ming。
-- 热爱分享，热爱前端。
--  [我的博客](https://wangmings.github.io)
--  [阿离王带你零基础学习前端电子书](http://ebook.wanggege.cn/)
--  [我的B站视频](https://space.bilibili.com/666922383)
+![](https://github-readme-stats.vercel.app/api?username=wangmings&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wangmings&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=wangming&theme=blue-green&show_icons=true)
+
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+
+-->
