@@ -35,7 +35,7 @@
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=wangmings&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangmings&layout=compact" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangmings&layout=compact" align="right"/>  
 
 <br/> 
 
