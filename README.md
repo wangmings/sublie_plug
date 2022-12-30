@@ -34,19 +34,21 @@
 
 
 ## Github Stats  
+
 <img src="https://github-readme-stats.vercel.app/api?username=wangmings&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangmings&layout=compact" align="right"/>  
-
-<br/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangmings&hide_border=true&layout=compact" />
 
 
+
+
+
+
+<br/>  
 
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
