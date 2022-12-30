@@ -32,12 +32,16 @@
 
 ## Github Stats  
 
+<table><tr><td valign="top" width="33%">
+
 <img src="https://github-readme-stats.vercel.app/api?username=wangmings&show_icons=true&count_private=true&hide_border=true" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangmings&hide_border=true&layout=compact" />
   
 <div align="center">
 <img src="https://github.com/Yash-Handa/Yash-Handa/blob/main/code.gif" align="center" style="width: 100%" />
 </div>  
+  
+</td></tr></table>  
 
 <br/>  
   
